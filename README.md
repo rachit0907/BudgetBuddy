@@ -1,1 +1,1 @@
-# budgeting-app
+# BudgetBuddy
